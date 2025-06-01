@@ -10,7 +10,7 @@ namespace RepositoryTest250601
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi JD 250601-11시04분?");
+            Console.WriteLine("Hi JD 250601-11시04분? - 250602 0800");
             Console.ReadLine();
         }
     }
